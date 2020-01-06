@@ -5,8 +5,8 @@ Team
 mail: kaunogan.lemoine@ynov.com
 github_username: kaunogan
 ---
-mail: prenom2.nom2@ynov.com
-github_username: some_user_name2
+mail: geoffrey.parrier@ynov.com
+github_username: geoffreyparrier
 ---
 
 
